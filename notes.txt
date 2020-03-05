@@ -78,3 +78,33 @@
 	byte short char int float double long
 	
 	
+	String:
+	
+	String immutable object:
+	
+		"123" => Integer.paraseInt();
+		
+		StringBuilder => 1.5
+		
+
+this
+super
+extends
+implements
+access specifiers
+
+interface
+abstract class and method
+class
+
+super 
+super()
+
+method overloading
+method overriding
+
+
+
+
+
+	

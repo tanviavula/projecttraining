@@ -100,11 +100,29 @@ class
 super 
 super()
 
-method overloading
+method overloading:
+
+Writing two or more method with same name and same class with different parameter list is called overloading.
+1. Number of parameters
+2. Order 
+3. Types
+
 method overriding
 
 
+static keyword:
 
+     static methods
+     variables
+     inner class
+     imports
+     block
+     
+variables: if variable is declared with static keyword is called class variable
+
+
+IS - A
+HAS - A
 
 
 	

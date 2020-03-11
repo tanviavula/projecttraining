@@ -124,5 +124,25 @@ variables: if variable is declared with static keyword is called class variable
 IS - A
 HAS - A
 
+Inheritence:
+
+class can extend only one class ( There is no multiple inheritence)
+
+A -> B -> C
+
+(A,B) -> C X
+
+interface can extend any number of interface 
+
+
+
+
+
+
+
+
+
+
+
 
 	

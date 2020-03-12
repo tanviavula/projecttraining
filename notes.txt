@@ -134,7 +134,9 @@ A -> B -> C
 
 interface can extend any number of interface 
 
-
+class 
+interface : 
+abstract class : abstract key
 
 
 
